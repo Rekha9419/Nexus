@@ -29,7 +29,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://34.69.186.51:8081/repository/Student-Release/</url>
+            <url>http://34.69.186.51:8081/repository/Student1/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
