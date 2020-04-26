@@ -119,8 +119,8 @@ under the License.
      -->
     <server>
       <id>deployment</id>
-      <username>${NEXUS_USERNAME}</username>
-      <password>${NEXUS_PASSWORD}</password>
+      <username>admin</username>
+      <password>Ar.12345</password>
     </server>
 
 
